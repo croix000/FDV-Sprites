@@ -1,5 +1,7 @@
 # FDV-Sprites
 
+![](gif.gif)
+
 ## Actividad Sprites
 En esta actividad realizaremos pruebas con las herramientas para el manejo y edición de Sprites en un juego 2D que proporciona Unity. Los Sprites son uno de los elementos básicos en las aplicaciones 2D en Unity. Tienen componente Transform, como todo objeto en la escena y un componente Renderer.
 
